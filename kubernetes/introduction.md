@@ -33,3 +33,7 @@ In general, Kubernetes is splits into 2 planes - Control Plane and Worker Nodes
 
 - YAML [Often called as Manifests]
 
+### POD 
+
+![POD](image-3.png)
+

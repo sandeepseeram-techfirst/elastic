@@ -44,3 +44,15 @@ Ephemeral vs. Persistent
 Persistent Volumes 
 - Persistent Volume Claims 
 - Container Storage Interface 
+
+
+### Kubernetes Networking 
+
+Kubernetes Network Services 
+
+1. ClusterIP 
+2. NodePort 
+3. Loadbalancer 
+4. ExternalName
+5. Ingress (Controllers)
+

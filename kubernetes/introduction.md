@@ -10,3 +10,6 @@ CNCF mentions Kubernetes as the "Operating System for Cloud".
 
 ![Control Loop Workflow](image.png)
 
+
+Controllers are async in nature and hierarchial - Generally have a cascadding set of responsibilities. 
+

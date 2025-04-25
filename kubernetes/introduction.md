@@ -23,4 +23,6 @@ In general, Kubernetes is splits into 2 planes - Control Plane and Worker Nodes
 
 ![Control Plane](image-1.png)
 
+### Worker Nodes 
 
+![Control Plane and Worker Nodes](image-2.png)

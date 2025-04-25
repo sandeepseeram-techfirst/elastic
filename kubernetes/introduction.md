@@ -48,7 +48,7 @@ Persistent Volumes
 
 ### Kubernetes Networking 
 
-Kubernetes Network Services 
+Kubernetes Network Services - Overlay Network 
 
 1. ClusterIP 
 2. NodePort 
@@ -56,3 +56,4 @@ Kubernetes Network Services
 4. ExternalName
 5. Ingress (Controllers)
 
+![alt text](image-4.png)

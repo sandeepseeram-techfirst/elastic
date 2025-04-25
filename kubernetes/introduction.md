@@ -37,3 +37,10 @@ In general, Kubernetes is splits into 2 planes - Control Plane and Worker Nodes
 
 ![POD](image-3.png)
 
+### Kubernetes Storage 
+
+1. Volumes 
+Ephemeral vs. Persistent 
+Persistent Volumes 
+- Persistent Volume Claims 
+- Container Storage Interface 

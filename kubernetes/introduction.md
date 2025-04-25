@@ -17,4 +17,10 @@ Controllers are async in nature and hierarchial - Generally have a cascadding se
 ## Kubernetes Cluster Infrastructure 
 The components that make up Kubernetes 
 
+In general, Kubernetes is splits into 2 planes - Control Plane and Worker Nodes 
+
+### Control Plane 
+
+![Control Plane](image-1.png)
+
 

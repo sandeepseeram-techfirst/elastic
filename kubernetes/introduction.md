@@ -29,4 +29,7 @@ In general, Kubernetes is splits into 2 planes - Control Plane and Worker Nodes
 
 
 ## Kubernetes Objects 
+"The Things we Deploy"
+
+- YAML [Often called as Manifests]
 

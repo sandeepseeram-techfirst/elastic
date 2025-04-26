@@ -56,4 +56,4 @@ Kubernetes Network Services - Overlay Network
 4. ExternalName
 5. Ingress (Controllers)
 
-![alt text](image-4.png)
+![Kubernetes Network Services](image-4.png)

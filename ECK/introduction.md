@@ -1,0 +1,1 @@
+# Elastic Cloud for Kubernetes 
